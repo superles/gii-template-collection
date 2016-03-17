@@ -1,0 +1,1 @@
+This is the (not yet) official Gii Template Collection for the Yii Framework.
